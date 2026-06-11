@@ -133,3 +133,7 @@ All previous endpoints remain the same, but data is now persisted in a MySQL dat
 
 **Browser Console – Successful Fetch**
 ![Browser console](screenshots/console_fetch.png)
+
+MEMBERS:
+SENOBIO, DENZEL R.
+RAYANDAYAN, JAIRA D.
